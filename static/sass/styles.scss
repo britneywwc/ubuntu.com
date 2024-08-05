@@ -247,6 +247,11 @@ select {
   margin-bottom: 1.25rem;
 }
 
+.p-fieldset-section {
+  border: none !important;
+  padding: 0 !important;
+}
+
 // XXX Steve: 21.06.18
 // https://github.com/vanilla-framework/vanilla-framework/issues/1794
 .u-no-max-width {
