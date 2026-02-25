@@ -42,6 +42,8 @@ previous_previous_lts:
 core_lts:
   version: "24"
   eol: "April 2034"
+openstack_lts:
+  slug: Yoga
 wsl:
   version: "24.04.4"
   iso_download_size: "357M"
