@@ -1267,10 +1267,10 @@ engage/vmware-migration-scenarios/?: "https://assets.ubuntu.com/v1/855af1ef-infr
 tutorials/getting-started-with-kubernetes-ha/?: "https://canonical.com/microk8s/docs/high-availability"
 tutorials/install-a-local-kubernetes-with-microk8s/?: "https://canonical.com/microk8s/docs/getting-started"
 tutorials/install-microk8s-on-mac-os/?: "https://canonical.com/microk8s/docs/install-macos"
-tutorials/gitlab-cicd-pipelines-with-microk8s/?: "https://canonical.com/microk8s/docs/install-raspberry-pi"
 tutorials/install-istio-on-charmed-distribution-of-kubernetes/?: "https://ubuntu.com/kubernetes/charmed-k8s/docs/ingress"
 tutorials/how-to-build-a-ceph-backed-kubernetes-cluster/?: "https://documentation.ubuntu.com/canonical-kubernetes/release-1.32/charm/howto/ceph-csi/"
 tutorials/accelerated-ml-experiments-on-microk8s-with-inaccel-fpga-operator-and-kubeflow-katib/?: "https://charmed-kubeflow.io/docs/accelerated-ml-experiments-on-microk8s-with-inaccel-fpga-operator-and-kubeflow-katib"
+tutorials/how-to-kubernetes-cluster-on-raspberry-pi?: "https://canonical.com/microk8s/docs/install-raspberry-pi"
 
 # Redirects for security-related tutorials
 tutorials/comply-with-cis-or-disa-stig-on-ubuntu/?: "https://documentation.ubuntu.com/security/compliance/usg/"
